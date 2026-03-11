@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "愛に出会い恋は続く",
+  "base_artist": "MARUMOCHI from HoneyWorks",
+  "createdAt": "2026-03-11T13:32:22.292135Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛に出会い恋は続く（Off Vocal）",
+      "artist": "Honeyworks",
+      "has_synced": false,
+      "path": "select/01_愛に出会い恋は続く(Off_Vocal)_Honeyworks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛に出会い恋は続く feat.ハコニワリリィ",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_愛に出会い恋は続く_feat.ハコニワリリィ_MARUMOCHI_from_HoneyWorks.txt"
+    }
+  ]
+}
